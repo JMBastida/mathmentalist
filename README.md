@@ -54,11 +54,6 @@ This application built [Flutter](https://flutter.dev/). Flutter is cross-platfor
 * [Getting started with Flutter](https://flutter.dev/docs).
 * [Dart](https://dart.dev/)
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/jaysavsani07/math-metrix/blob/master/LICENSE) for more information.
-
 <!-- ACKNOWLEDGEMENTS -->
 ## This app using following awesome open source libraries
 

@@ -251,6 +251,7 @@ class _DashboardViewState extends State<DashboardView>
                           ],
                         ),
                       ),
+                      Expanded(flex: 1, child: Text('Beta version')),
                     ],
                   ),
                 )),
